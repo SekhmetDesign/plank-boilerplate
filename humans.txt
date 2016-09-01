@@ -1,0 +1,7 @@
+/* About Us */
+
+Company:        Plank
+Site:           http://www.plankdesign.com
+Twitter:        @plank
+Location (HQ):  Montreal, Quebec, Canada
+Founded:        1998

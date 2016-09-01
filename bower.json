@@ -1,0 +1,19 @@
+{
+  "name": "plankboilerplate",
+  "version": "0.0.2",
+  "authors": [
+    "Plank"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "~2.2.12"
+  },
+  "private": true
+}
