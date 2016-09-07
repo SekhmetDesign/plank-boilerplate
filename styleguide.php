@@ -18,6 +18,7 @@
 	<meta property="og:site_name" content="" />
 
 	<link rel="stylesheet" href="assets/build/css/style.css">
+	<link rel="stylesheet" href="assets/build/css/styleguide.css">
 </head>
 <body>
 	<header class="header">
